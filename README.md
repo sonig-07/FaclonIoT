@@ -28,8 +28,7 @@ Build a Node.js backend service that ingests IoT sensor temperature readings, st
 ### 1. Clone Repository
 
 ```bash
-git clone <your-github-repo-link>
-cd iotemp
+git clone https://github.com/sonig-07/FaclonIoT
 
 ```
 ---
@@ -96,7 +95,7 @@ GET /api/sensors/:deviceId/latest
 
 ---
 
-## Notes
+## Note
 
 * Designed for real-world IoT data ingestion
 * Clean and scalable backend structure
