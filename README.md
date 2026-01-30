@@ -1,4 +1,4 @@
-# Node.js IoT Sensor – Internship Assessment
+# Node.js Dev IoT Sensor – Internship Assessment
 
 
 Build a Node.js backend service that ingests IoT sensor temperature readings, stores them in MongoDB, and exposes APIs to retrieve the latest reading for a device.
@@ -31,6 +31,7 @@ Build a Node.js backend service that ingests IoT sensor temperature readings, st
 git clone <your-github-repo-link>
 cd iotemp
 
+```
 ---
 
 ### 2. Install Dependencies 
@@ -38,7 +39,6 @@ cd iotemp
 ```bash
 npm install
 ```
-
 ---
 
 ### 3. Environment Variables
@@ -101,6 +101,9 @@ GET /api/sensors/:deviceId/latest
 * Designed for real-world IoT data ingestion
 * Clean and scalable backend structure
 
-```
-
 ---
+
+## Author
+
+SONY GUPTA  [GitHub Profile](https://github.com/sonig-07)
+
